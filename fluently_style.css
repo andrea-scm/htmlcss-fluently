@@ -192,9 +192,7 @@ hr{
   font-size: 16px;
 }
 
-.text-cnt p,
-.discover-us p,
-.structure p {
+.text-cnt p{
   margin: 20px 0px;
 }
 
